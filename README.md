@@ -12,6 +12,11 @@ Use [git](https://git-scm.com/) to install this website.
 git clone git@github.com:yingersun/csgo-ref-site.git
 ```
 
+## Installation
+* Fully responsive
+* Collapsable navigation bar
+* Ability to add advertisement banners
+* Ability to change background image
 
 
 ## Contributing
