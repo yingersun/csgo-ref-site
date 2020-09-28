@@ -4,13 +4,6 @@
 Why not have a site that displays all your referral codes? I created a fully responsive website for anyone to easily setup and use as their own referrals listing website. This website was created using HTML, CSS, and a little bit of javascript for the navigation bar. Inspiration and images are from https://betrefs.com/.
 
 
-## Installation
-
-Use [git](https://git-scm.com/) to install this website.
-
-```bash
-git clone git@github.com:yingersun/csgo-ref-site.git
-```
 
 ## Preview
 ![Site Preview](images/site-preview.png)
@@ -22,6 +15,13 @@ git clone git@github.com:yingersun/csgo-ref-site.git
 * Collapsable navigation bar
 * Ability to add advertisement banners
 * Ability to change background image
+
+## Installation
+Use [git](https://git-scm.com/) to install this website.
+
+```bash
+git clone git@github.com:yingersun/csgo-ref-site.git
+```
 
 
 ## Contributing
